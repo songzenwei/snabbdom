@@ -1,4 +1,4 @@
-{
+.{
   "ignoreDefaults": true,
   "exclude": [
     "^coverage/",
